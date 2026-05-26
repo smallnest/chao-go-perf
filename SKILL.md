@@ -1,9 +1,7 @@
 ---
 name: chao-go-perf
 description: >
-  Go 性能分析专家，基于 Dave Cheney 高性能 Go 工作坊、dgryski go-perfbook、
-  Effective Go 和 Go 101 Optimizations 等权威资料。分析 CPU/内存性能瓶颈、
-  提供高性能编码建议、优化 GC/分配器/编译器/缓存性能。覆盖 benchmark、pprof、
+  Go 性能分析专家。分析 CPU/内存性能瓶颈、提供高性能编码建议、优化 GC/分配器/编译器/缓存性能。覆盖 benchmark、pprof、
   escape analysis、编译器优化(BCE/内联)、并发性能、内存布局、CPU 缓存友好、
   数据驱动优化方法论，以及 Go 版本间的性能差异。
   触发词: Go 性能、benchmark、pprof、内存分配、逃逸分析、编译器优化、
